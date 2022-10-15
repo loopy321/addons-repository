@@ -11,7 +11,7 @@
   "webui": "[PROTO:ssl]://[HOST]:[PORT:5423]",
   "startup": "services",
   "boot": "auto",
-  "image": "loopy321/image-{arch}-addon-nightscout-14.2.6",
+  "image": "loopy321/image-{arch}-addon-nightscout",
   "hassio_role": "default",
   "ports": {
     "5423/tcp": 5423
